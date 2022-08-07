@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\bin\Debug\CountDownTimer.exe.config
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\bin\Debug\CountDownTimer.exe
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\bin\Debug\CountDownTimer.pdb
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\obj\Debug\CountDownTimer.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\obj\Debug\CountDownTimer.Form1.resources
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\obj\Debug\CountDownTimer.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\obj\Debug\CountDownTimer.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\obj\Debug\CountDownTimer.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\obj\Debug\CountDownTimer.exe
+C:\Users\Anthony\Desktop\Dataman\CountDownTimer\obj\Debug\CountDownTimer.pdb

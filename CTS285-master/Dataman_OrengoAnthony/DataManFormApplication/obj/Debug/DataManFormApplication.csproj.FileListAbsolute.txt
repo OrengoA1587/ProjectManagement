@@ -1,0 +1,39 @@
+D:\CTS 285\Dataman\DataManFormApplication\bin\Debug\DataManFormApplication.exe.config
+D:\CTS 285\Dataman\DataManFormApplication\bin\Debug\DataManFormApplication.exe
+D:\CTS 285\Dataman\DataManFormApplication\bin\Debug\DataManFormApplication.pdb
+D:\CTS 285\Dataman\DataManFormApplication\obj\Debug\DataManFormApplication.csprojAssemblyReference.cache
+D:\CTS 285\Dataman\DataManFormApplication\obj\Debug\DataManFormApplication.Form1.resources
+D:\CTS 285\Dataman\DataManFormApplication\obj\Debug\DataManFormApplication.Properties.Resources.resources
+D:\CTS 285\Dataman\DataManFormApplication\obj\Debug\DataManFormApplication.csproj.GenerateResource.cache
+D:\CTS 285\Dataman\DataManFormApplication\obj\Debug\DataManFormApplication.csproj.CoreCompileInputs.cache
+D:\CTS 285\Dataman\DataManFormApplication\obj\Debug\DataManFormApplication.exe
+D:\CTS 285\Dataman\DataManFormApplication\obj\Debug\DataManFormApplication.pdb
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.exe.config
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.exe
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.pdb
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.Form1.resources
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.Properties.Resources.resources
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.exe
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.pdb
+D:\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.exe.config
+D:\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.exe
+D:\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.pdb
+D:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csprojAssemblyReference.cache
+D:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.Form1.resources
+D:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.Properties.Resources.resources
+D:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csproj.GenerateResource.cache
+D:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csproj.CoreCompileInputs.cache
+D:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.exe
+D:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.pdb
+E:\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.exe.config
+E:\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.exe
+E:\Dataman_OrengoAnthony\DataManFormApplication\bin\Debug\DataManFormApplication.pdb
+E:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csprojAssemblyReference.cache
+E:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.Form1.resources
+E:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.Properties.Resources.resources
+E:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.csproj.GenerateResource.cache
+E:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.exe
+E:\Dataman_OrengoAnthony\DataManFormApplication\obj\Debug\DataManFormApplication.pdb

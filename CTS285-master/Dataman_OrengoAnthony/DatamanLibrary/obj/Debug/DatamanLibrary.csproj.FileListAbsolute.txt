@@ -1,0 +1,46 @@
+C:\Users\Anthony\source\repos\Dataman\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+C:\Users\Anthony\source\repos\Dataman\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+C:\Users\Anthony\source\repos\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+C:\Users\Anthony\source\repos\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
+E:\CTS 285\Dataman\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+E:\CTS 285\Dataman\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+E:\CTS 285\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.csprojAssemblyReference.cache
+E:\CTS 285\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+E:\CTS 285\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
+C:\Users\Anthony\Desktop\CTS 285\Dataman\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+C:\Users\Anthony\Desktop\CTS 285\Dataman\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+C:\Users\Anthony\Desktop\CTS 285\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CTS 285\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\CTS 285\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+C:\Users\Anthony\Desktop\CTS 285\Dataman\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+C:\Users\Anthony\Desktop\CTS 285\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
+E:\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+E:\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+E:\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csprojAssemblyReference.cache
+E:\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+E:\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
+D:\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+D:\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+D:\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csprojAssemblyReference.cache
+D:\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csproj.CoreCompileInputs.cache
+D:\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+D:\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
+C:\Users\Anthony\Desktop\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+C:\Users\Anthony\Desktop\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+C:\Users\Anthony\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+C:\Users\Anthony\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
+C:\Users\oreng\OneDrive\Desktop\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.dll
+C:\Users\oreng\OneDrive\Desktop\Dataman_OrengoAnthony\DatamanLibrary\bin\Debug\DatamanLibrary.pdb
+C:\Users\oreng\OneDrive\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csproj.AssemblyReference.cache
+C:\Users\oreng\OneDrive\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\oreng\OneDrive\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.dll
+C:\Users\oreng\OneDrive\Desktop\Dataman_OrengoAnthony\DatamanLibrary\obj\Debug\DatamanLibrary.pdb
