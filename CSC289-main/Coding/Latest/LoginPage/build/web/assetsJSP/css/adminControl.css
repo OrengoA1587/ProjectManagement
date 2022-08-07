@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2021, 9:56:33 AM
+    Author     : Anthony
+*/
+.text{
+    color:white;
+}
+.progress progress-sm .progress-bar bg-info{
+    width:50%;
+    
+}
+.form-group .form-control{
+    height:50px;
+    width:500px;
+}
+.company-logo{
+    
+    position:relative;
+    top:-25%;
+    left:65%;
+    opacity: .2;
+}
+.company-logo-admin-table{
+    position:relative;
+    top:-37%;
+    left:35%;
+    opacity: .03;
+}
+.company-logo-user-table{
+    position:relative;
+    top:-15%;
+    left:35%;
+    opacity: .03;
+}
+.company-logo-time-worked-table{
+    position:relative;
+    top:-15%;
+    left:35%;
+    opacity: .03;
+}
+.company-logo-work-table{
+    position:relative;
+    top:-15%;
+    left:35%;
+    opacity: .03;
+}
+.company-logo-profile-table{
+    position:relative;
+    top:-21%;
+    left:35%;
+    opacity: .03;
+}

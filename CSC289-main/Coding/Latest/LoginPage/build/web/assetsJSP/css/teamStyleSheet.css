@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 3, 2021, 7:18:33 AM
+    Author     : Anthony
+*/
+.image-container .image-team-control-jon{          
+    left: 5%;
+    top:15%;    
+    display: compact;
+    max-width: 100%;
+    height: auto;
+    padding:25px;
+    margin:25px;
+    width:auto;     
+}
+.image-container .image-team-control-ore{          
+    left: 5%;
+    top:15%;    
+    display: compact;
+    max-width: 100%;
+    height: auto;
+    padding:25px;
+    margin:25px;
+    width:auto;     
+}
+.image-team-control-jon{
+    position: absolute;
+    width:auto;
+    display:  block;
+    top:17%;
+    left:15%;
+}
+.image-team-control-ore{
+    position: absolute;
+    width:auto;
+    top:17%;
+    left:55%;
+    display: block; 
+}
+h1{
+    position: absolute;
+    top:10%;
+    left:27.5%;
+    font-size: 4vw;
+    text-align: center;
+    color:  #dfe7f1;
+    font-family: microsoft, himalayan;
+}
+.image-team-control-ore h3{
+    color:black;
+    font-size: 2vw;
+    font-family: microsoft, himalayan; 
+    position: relative;
+    left:17%;
+    color: #dfe7f1;
+}
+.image-team-control-jon h3{
+    color:black;
+    font-size: 2vw;
+    font-family: microsoft, himalayan; 
+    position: relative;
+    left:28%;
+    color: #dfe7f1;
+} 
+.image-one-ore .image-oreant {
+    width:auto;
+    display:  block;
+    width: 300px;
+    height: 400px;
+    border-style: ridge; 
+    border-color: gray;
+    border-width: 10px;
+}
+.image-two-kin .image-kinjon {
+    width:auto;
+    display:  block;
+    width: 300px;
+    height: 400px;
+    border-style: ridge; 
+    border-color: gray;
+    border-width: 10px;
+}
+ 

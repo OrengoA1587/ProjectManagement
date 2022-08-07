@@ -1,0 +1,598 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 2, 2021, 10:45:59 AM
+    Author     : Anthony
+*/
+ -moz-appearance {
+   background-color: red !important;
+   color: red !important;
+ 
+}
+.form-control::-webkit-input-placeholder {
+  color:  #000;
+ font-size: 22px;  
+}
+.form-control:focus::-webkit-input-placeholder {
+  font-weight: bold;
+   
+  color: #fff;
+} 
+* {
+  box-sizing: border-box;
+}
+html{
+    position: fixed;
+    min-height: 100%;
+}
+ body
+{ 
+  margin: 0;
+  padding:0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: transparent;
+  text-align: center;
+ 
+}
+nav{
+    top: 0;   
+    position:fixed;	
+    text-decoration: none;
+    width: 100%;
+    background-color:  #f7f9fc; 
+    
+}
+.image{
+    position:fixed;
+    top: 0; 
+    background-position: center;   
+    height:100%;
+    width:100%;
+} 
+
+nav a.active{
+	  
+  	 color: white;
+} 
+nav a:hover {
+ 	 background-color:  #278c9b;
+  	 color: black;
+         text-decoration: none;
+}
+ 
+nav a {
+        font-family: microsoft,himalayan;
+
+  	float: left;
+  	color:  black;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+  	font-size: 25px;
+}
+
+body,h1{
+    top: 50%;
+    right: 15%;
+  
+}
+
+h1{
+    position:relative;
+    font-family: microsoft-himalayan;
+    top:0%;
+    font-size: 1vw;
+    left: 7%;
+}
+/*LOGIN MAIN///////////////////////////////////////////////////////////////*/
+ .login-clean-main   {
+   margin: 0;
+   padding:0;
+   bottom:-15%;
+   top:-1%;
+   right: 43.5%;
+   height: 1000px;     
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: absolute; 
+}
+-moz-appearance-  form /* Mozilla */ {
+  background-color:  #278c9b; 
+} 
+.home-system-logout{
+    font-size: 1vw;
+}
+.login-clean-main form {
+  
+  width: 300px;
+  height: 400px;
+  width: 29%; 
+  bottom:-15%;
+  right:70%;
+  margin: 200px  0px 0px 800px;
+  background-color:  lightgrey;  
+  border-radius: 10px;
+  color:  #282d32;
+  box-shadow: 1px 1px 5px rgba(0,0,0,.3);
+  opacity: .95;
+  
+}
+.login-clean-main form a {
+    position: relative;
+    right: -10%;  
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+}
+.login-clean-main form a.forgot {
+    position: relative;
+    right:1%;
+    text-decoration: none;
+    color:  #6f7a85;
+    font-size: 20px;
+}
+.login-clean-main .illustration {
+  right:-38%; 
+  top:-1%;
+  position: relative; 
+  color: rgb(244,71,107);
+}
+
+.login-clean-main form .form-control {
+  background: #f7f9fc;
+  position: relative;
+  right:-10%;
+  height: 100px;
+  width: 200px;
+  border: none;
+  border-bottom: 1px solid #dfe7f1;
+  border-radius: 4px;
+  box-shadow: none;
+  outline: none;
+  font-size: 15px;
+  color: inherit;
+  text-indent: 8px;
+  height: 42px;
+  
+}
+
+.login-clean-main form .btn-primary {
+  background:  #278c9b;
+  position: relative;
+  right:-10%;
+  border: none;
+  height:50px;
+  width: 200px;
+  border-radius: 4px;
+  padding: 11px;
+  box-shadow: none;
+  margin-top: 26px;
+  text-shadow: none;
+  font-size: 25px;
+  outline: none !important;
+ 
+}
+
+.login-clean-main form .btn-primary:hover, .login-clean-main  form .btn-primary:active {
+  background:  #36b9cc;
+}
+
+.login-clean-main form .btn-primary:active {
+  transform: translateY(1px);
+}
+
+.login-clean-main form .forgot {
+  position: relative;
+  right:-4%;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #6f7a85;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.login-clean-main form .forgot:hover, .login-clean-main  form .forgot:active {
+  opacity: 1;
+  text-decoration: none;
+}
+/*///////////////////////////////////////////////////////*/
+.login-clean-admin   {
+   margin: 0;
+   padding:0;
+   bottom:-15%;
+   top:-1%;
+   right: 31%;
+   height: 1000px;     
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: absolute; 
+}
+ 
+.login-clean-admin form {
+  
+  width: 300px;
+  height: 400px;
+  width: 29%; 
+  bottom:-15%;
+  right:70%;
+  margin: 200px  0px 0px 800px;
+  background-color:  lightgrey;  
+  border-radius: 10px;
+  color:  #282d32;
+  box-shadow: 1px 1px 5px rgba(0,0,0,.3);
+  opacity: .95;
+  
+}
+.login-clean-admin form a {
+    position: relative;
+    right: -10%;  
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+}
+.login-clean-admin form a.forgot {
+    position: relative;
+    right:1%;
+    text-decoration: none;
+    color:  #6f7a85;
+    font-size: 20px;
+}
+.login-clean-admin .illustration {
+  right:-38%; 
+  top:-1%;
+  position: relative; 
+  color: rgb(244,71,107);
+}
+
+.login-clean-admin form .form-control {
+  background: #f7f9fc;
+  position: relative;
+  right:-10%;
+  height: 100px;
+  width: 200px;
+  border: none;
+  border-bottom: 1px solid #dfe7f1;
+  border-radius: 4px;
+  box-shadow: none;
+  outline: none;
+  font-size: 15px;
+  color: inherit;
+  text-indent: 8px;
+  height: 42px;
+  
+}
+
+.login-clean-admin form .btn-primary {
+  background:  #278c9b;
+  position: relative;
+  right:-10%;
+  border: none;
+  height:50px;
+  width: 200px;
+  border-radius: 4px;
+  padding: 11px;
+  box-shadow: none;
+  margin-top: 15px;
+  text-shadow: none;
+  font-size: 25px;
+  outline: none !important;
+ 
+}
+
+.login-clean-admin form .btn-primary:hover, .login-clean-admin  form .btn-primary:active {
+  background:  #36b9cc;
+}
+
+.login-clean-admin form .btn-primary:active {
+  transform: translateY(1px);
+}
+
+.login-clean-admin form .forgot {
+  position: relative;
+  right:-4%;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #6f7a85;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.login-clean-admin form .forgot:hover, .login-clean-admin  form .forgot:active {
+  opacity: 1;
+  text-decoration: none;
+}
+/*//////////////////////////////////////////////////////////////////////////*/
+ .login-clean-user   {
+   margin: 0;
+   padding:0;
+   bottom:-15%;
+   top:-1%;
+   right: 56%;
+   height: 1000px;     
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: absolute; 
+}
+.login-clean-user form {
+  
+   
+  height: 400px;
+  width: 29%; 
+  bottom:-15%;
+   right:70%;
+  margin: 200px  0px 0px 800px;
+  background-color:  lightgrey;  
+  border-radius: 10px;
+  color:  #282d32;
+  box-shadow: 1px 1px 5px rgba(0,0,0,.3);
+  opacity: .95;
+  
+}
+.login-clean-user  form a {
+    position: relative;
+    right: -10%;  
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+}
+.login-clean-user  form a.forgot {
+    position: relative;
+    right:1%;
+    text-decoration: none;
+    color:  #6f7a85;
+    font-size: 20px;
+}
+.login-clean-user  .illustration {
+  right:-38%; 
+  top:-1%;
+  position: relative; 
+  color: rgb(244,71,107);
+}
+
+.login-clean-user  form .form-control {
+  background: #f7f9fc;
+  position: relative;
+  right:-10%;
+  height: 100px;
+  width: 200px;
+  border: none;
+  border-bottom: 1px solid #dfe7f1;
+  border-radius: 4px;
+  box-shadow: none;
+  outline: none;
+  font-size: 15px;
+  color: inherit;
+  text-indent: 8px;
+  height: 42px;
+  
+}
+
+.login-clean-user  form .btn-primary {
+  background:  #278c9b;
+  position: relative;
+  right:-10%;
+   
+  border: none;
+  height:50px;
+  width: 200px;
+  border-radius: 4px;
+  padding: 11px;
+  box-shadow: none;
+  margin-top: 15px;
+  text-shadow: none;
+  font-size: 25px;
+  outline: none !important;
+ 
+}
+
+.login-clean-user  form .btn-primary:hover, .login-clean-user form .btn-primary:active {
+  background:  #36b9cc;
+}
+
+.login-clean-user  form .btn-primary:active {
+  transform: translateY(1px);
+}
+
+.login-clean-user  form .forgot {
+  position: relative;
+  right:-4%;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #6f7a85;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.login-clean-user  form .forgot:hover, .login-clean-user form .forgot:active {
+  opacity: 1;
+  text-decoration: none;
+}
+/*////////////////////////////////////////////////////////////*/
+ .login-clean-user-login   {
+   margin: 0;
+   padding:0;
+   bottom:-15%;
+   top:-1%;
+   right: 45%;
+   height: 1000px;     
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: absolute; 
+}
+.login-clean-user-login   form {
+  
+   
+  height: 400px;
+  width: 29%; 
+  bottom:-15%;
+   right:70%;
+  margin: 200px  0px 0px 800px;
+  background-color:  lightgrey;  
+  border-radius: 10px;
+  color:  #282d32;
+  box-shadow: 1px 1px 5px rgba(0,0,0,.3);
+  opacity: .95;
+  
+}
+.login-clean-user-login    form a {
+    position: relative;
+    right: -10%;  
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+}
+.login-clean-user-login    form a.forgot {
+    position: relative;
+    right:1%;
+    text-decoration: none;
+    color:  #6f7a85;
+    font-size: 20px;
+}
+.login-clean-user-login    .illustration {
+  right:-38%; 
+  top:-1%;
+  position: relative; 
+  color: rgb(244,71,107);
+}
+
+.login-clean-user-login    form .form-control {
+  background: #f7f9fc;
+  position: relative;
+  right:-10%;
+  height: 100px;
+  width: 200px;
+  border: none;
+  border-bottom: 1px solid #dfe7f1;
+  border-radius: 4px;
+  box-shadow: none;
+  outline: none;
+  font-size: 15px;
+  color: inherit;
+  text-indent: 8px;
+  height: 42px;
+  
+}
+
+.login-clean-user-login    form .btn-primary {
+  background:  #278c9b;
+  position: relative;
+  right:-10%;
+  border: none;
+  height:50px;
+  width: 200px;
+  border-radius: 4px;
+  padding: 11px;
+  box-shadow: none;
+  margin-top: 26px;
+  text-shadow: none;
+  font-size: 25px;
+  outline: none !important;
+ 
+}
+
+.login-clean-user-login    form .btn-primary:hover, .login-clean-user-login form .btn-primary:active {
+  background:  #36b9cc;
+}
+
+.login-clean-user-login    form .btn-primary:active {
+  transform: translateY(1px);
+}
+
+.login-clean-user-login  form .forgot {
+  position: relative;
+  right:-4%;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #6f7a85;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.login-clean-user-login form .forgot:hover, .login-clean-user-login form .forgot:active {
+  opacity: 1;
+  text-decoration: none;
+}
+.sticky-footer{
+     position: fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    height: 150px;   
+    background-color: #333;     
+   
+    text-align: center;
+}
+ 
+.sticky-footer p {
+   
+    font-size: 18px;
+    color: white;
+    font-family: Courier New, monospace;
+    text-align: center;
+}
+ @media screen and (max-width: 800px) {
+     .login-clean-admin{
+        margin: 0;
+        padding:0;
+        bottom:-15%;
+        top:-1%;
+        right: 15%;
+        height: 50%;     
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: absolute; 
+     }
+     .login-clean-user{
+        margin: 0;
+        padding:0;
+        bottom:-15%;
+        top:-1%;
+        right: 65%;
+        height: 50%;     
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: absolute;
+     }
+     .image-main{
+         background-size:  contain;
+          
+        background-repeat: no-repeat;
+     }
+     
+ }
+  @media screen and (max-width: 1400px) {
+     .login-clean-admin{
+        margin: 0;
+        padding:0;
+        bottom:-15%;
+        top:-1%;
+        right: 5%;
+        height: 50%;     
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: absolute; 
+     }
+     .login-clean-user{
+        margin: 0;
+        padding:0;
+        bottom:-15%;
+        top:-1%;
+        right: 65%;
+        height: 1000px;     
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: absolute;
+     }
+     
+ }
+ 

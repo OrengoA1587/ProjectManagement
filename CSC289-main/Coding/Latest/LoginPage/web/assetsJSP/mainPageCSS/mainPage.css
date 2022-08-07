@@ -1,0 +1,143 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 3, 2021, 6:46:20 AM
+    Author     : Anthony
+*/
+ 
+/*Applies to:
+1. indexAboutCompany.jsp
+2.indexAboutCompany.jsp
+3. indexCompanyMission.jsp
+4. ohNo.jsp
+*/
+.nav-item-co-logo{
+    opacity:.6;
+} 
+.image-logo-team{
+    width:auto;
+    height:auto;
+    max-height: 35%;
+    max-width: 35%;
+    position: absolute;      
+    left: 35%;
+    top:22%;
+    opacity: .5;
+}
+.image-logo-about{
+    width:auto;
+    height:auto;
+    max-height: 35%;
+    max-width: 35%;
+    position: absolute;      
+    left: 45%;
+    top:55%;
+    opacity: .5;
+}
+.image-logo-mission{
+    width:auto;
+    height:auto;
+    max-height: 35%;
+    max-width: 35%;
+    position: absolute;      
+    left: 45%;
+    top:45%;
+    opacity: .5;
+}
+.flex-container-about{
+    position: absolute;      
+    left: 5%;
+    top:15%;    
+    display: compact;
+    max-width: 100%;
+    height: auto;
+    padding:25px;
+    margin:25px;
+    width:auto;  
+}
+.flex-container-error{
+    position: absolute;      
+    left: 5%;
+    top:15%;    
+    display: compact;
+    max-width: 100%;
+    height: auto;
+    padding:25px;
+    margin:25px;
+    width:auto;  
+    text-align: center;
+}
+.flex-container-error h1{    
+    font-size: 4vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color:red ;     
+}
+.flex-container-about h1{    
+    font-size: 4vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color: #000;     
+}
+.flex-column-about p{       
+    font-size: 2.2vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color:  #000;
+}
+.flex-column-error p{       
+    font-size: 4vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color:  #000;
+}
+.flex-container-mission{
+    position: absolute;      
+    left:-2%;
+    top:10%;    
+    display: compact;
+    max-width: 50%;
+    height: auto;
+    padding:25px;
+    margin:25px;
+    width:auto;  
+}
+.flex-container-mission h1{   
+    font-size: 5vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color:  #000;     
+}
+.flex-column-mission p{       
+    font-size: 2.5vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color: #000;
+}
+.flex-container-vision{
+    position: absolute;      
+    left: 50%;
+    top:10%;    
+    display: compact;
+    max-width: 50%;
+    height: auto;
+    padding:25px;
+    margin:25px;
+    width:auto;  
+}
+.flex-container-vision h1{   
+    font-size: 5vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color:  #000;     
+}
+.flex-column-vision p{       
+    font-size: 2.5vw;
+    text-align: center;
+    font-family: microsoft, himalayan;
+    color:  #000;
+}
+ 

@@ -1,0 +1,31 @@
+*****************************************************************************************
+*                                                                                       *
+* 				    SELECT COMMANDER RANK                               * 
+*---------------------------------------------------------------------------------------*
+*                                        ROLL DICE                                      *
+*                                                                                       *
+*****************************************************************************************
+Commander Rank Selection:
+
+**Players will choose their Players rank level next:
+
+1: Players will roll one six-sided dice to determine what rank level their commander will be.
+
+2. Players will recieve their commanders rank level based on the dice number. below is a list 
+of available rank levels from 1-6 using the United States Rank System. 1 is considered the 
+lowest rank with 6 being the highest possible rank.
+	
+	Level 1: Lieutenant (LT)
+	Level 2: Captain (CPT)
+        Level 3: Major (MAJ)
+	Level 4: LT Colonel (LTC)
+	Level 5: Colonel (COL)
+	Level 6: General (GEN)
+
+3. Though players may start with a high or low rank, there is always the potential for players to
+get promoted and demoted.
+
+4. Once every player has a Battle Country, the teams will be divided by powers. Allied players will
+pair with other Allied players and vice a versa for Axis players.
+
+

@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 14, 2021, 4:42:20 PM
+    Author     : Anthony
+*/
+
+ .form-group .btn {
+    
+    background-color: red;    
+    border-width: 4px;
+    border-color: black;
+    border-radius: 10px;
+    font-size: 15px;
+    color: white;
+ 
+}

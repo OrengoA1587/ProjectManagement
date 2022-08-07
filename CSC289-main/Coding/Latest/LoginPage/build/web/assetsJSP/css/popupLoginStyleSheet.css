@@ -1,0 +1,276 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 16, 2021, 9:02:07 AM
+    Author     : Anthony
+*/
+/*Modal*/
+h1 {
+  font-weight: bold;
+  font-family: microsoft, himalayan;
+  color:    #000;
+}
+ h2{
+  font-weight: bold;
+  font-family: microsoft, himalayan;
+  color:  #000;
+}
+ h3{
+  font-weight: bold;
+  font-family: microsoft, himalayan;
+  color:  #000;
+}
+label{
+    color: black;
+}
+option{
+    font-size: 1.2vw;
+}
+.close {
+  color: #fff;
+  transform: scale(1.2)
+}
+.modal-content {
+  font-weight: bold;
+  background:   #fff;
+  border: 4px  inset   #000; 
+  height: auto;
+  
+}
+.modal-content-res-form {
+  font-weight: bold;
+  background: linear-gradient(to bottom right,white, gray );
+  border: 3px  inset   #000; 
+  
+}
+.flex-container-6 h2{
+    color:white;
+    font-size: 1.1vw;
+}
+.contact-form, .form-group, .form-control textarea{
+    height:available;
+    width:100%;
+    
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+   
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #f4b30d;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: goldenrod;
+  color:  #000;
+}
+
+.container-contact {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.form-control {
+  margin: 1em 0;
+ 
+  
+}
+.form-control:hover, .form-control:focus {
+  box-shadow: none;  
+  border-color: #fff;
+  
+}
+.username, .password {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  border-bottom: 2px solid #eee;
+  padding-left: 0;
+  font-weight: normal;
+  background: transparent;  
+}
+.form-control::-webkit-input-placeholder {
+  color:  #000;
+ font-size: 22px;  
+}
+.form-control:focus::-webkit-input-placeholder {
+  font-weight: bold;
+   
+  color: #fff;
+} 
+.learn-btn:hover {    
+   
+  background: linear-gradient(to bottom,#f7f9fc,#36b9cc);
+   
+  color:  #000;
+  border-radius: 5px;
+  font-size: 1.2vw;
+  text-decoration: none;
+ 
+}
+.learn-btn{   
+  position:absolute;
+  font-family: microsoft, himalayan;
+  text-align: right;  
+  
+  color:  #000;   
+  font-weight: bold;
+  transition: all .5s;       
+}
+.home-admin-login:hover {    
+  background: crimson;
+  background: linear-gradient(to bottom,#f7f9fc,#36b9cc);
+  padding: 12px 20px; 
+  color: #fff;
+  border-radius: 5px;
+   
+   
+}
+.home-admin-login{   
+  margin:0;
+  font-family: microsoft, himalayan;
+  text-align: center;
+  padding: 12px 20px;
+  text-decoration: none; 
+  color:  #000;
+  font-size: 20px;
+  font-weight: bold;
+  transition: all .5s;   
+    
+}
+.home-system-logout{   
+  margin:0;
+  font-family: microsoft, himalayan;
+  text-align: center;
+  padding: 12px 20px; 
+   
+    
+  color:  #000;
+  font-weight: bold;
+  font-size: 20px;
+  transition: all .5s;  
+    
+}
+.home-system-logout:hover {    
+  background: crimson;
+  background: linear-gradient(to bottom,#f7f9fc,red);
+  color:  #000;
+  padding: 12px 20px; 
+  border-radius: 5px; 
+ 
+}
+ 
+ .home-popup-login{   
+  margin:0;
+  font-family: microsoft, himalayan;
+  text-align: center; 
+  padding:15px 10px;   
+  color:  #000;
+   font-size: 1.1vw;
+  font-weight: bold;
+  transition: all .5s;   
+    
+}
+.home-popup-login:hover {  
+  background: linear-gradient(to bottom,#f7f9fc,#36b9cc);
+  color:  #fff;
+  border-radius: 5px;
+  padding: 10px 40px;
+ 
+}
+.reg-main{   
+  margin:0;
+  font-family: microsoft, himalayan;
+  text-align: center; 
+  font-size: 2vw;
+  padding: 12px 20px;   
+  color:  #000;
+  font-weight: bold;
+  transition: all .5s;   
+    
+}
+.reg-main:hover {  
+  background: linear-gradient(to bottom,#f7f9fc,#36b9cc);
+  color: #000;
+  border-radius: 5px;
+  border: 3px solid  #000; 
+}
+
+.user-login{   
+  margin:0;
+  font-family: microsoft, himalayan;
+  text-align: center; 
+  font-size: 1vw;
+  padding: 12px 20px;   
+  color:  #000;
+  font-weight: bold;
+  transition: all .5s;   
+    
+}
+.user-login:hover {  
+  background: linear-gradient(to bottom,#f7f9fc,#36b9cc);
+  color: #000;
+  border-radius: 5px;
+  border: 3px solid  #000; 
+}
+.covid-19:hover {    
+  background: crimson;
+  background: linear-gradient(to bottom,#f7f9fc,#36b9cc);
+  padding: 12px 20px; 
+  color: #fff;
+  text-decoration: none; 
+  border-radius: 5px;
+  font-size: 1.1vw;
+   
+}
+.covid-19{   
+  margin:0;
+  font-family: microsoft, himalayan;
+  text-align: center;
+  padding: 12px 20px;
+  text-decoration: none; 
+   box-shadow: 10px 10px 5px grey;
+  color:  #000;
+  font-size: 1.1vw;
+  font-weight: bold;
+  transition: all .5s;   
+    
+}

@@ -1,0 +1,33 @@
+*****************************************************************************************
+*                                                                                       *
+* 				    SELECT BATTLE COUNTRY                               * 
+*---------------------------------------------------------------------------------------*
+*                                        ROLL DICE                                      *
+*                                                                                       *
+*****************************************************************************************
+Country Selection:
+
+**Players will choose their Battle Country next:
+
+1: Players will roll one six-sided dice to determine who has the higher number. 
+The player with the highest number will choose a Battle Country first. There are 6 Battle 
+Countries in total.
+	 1a. Allied Powers: USA, Soviet Union, UK
+	 1b. Axis Powers: Germany, Italy, and Japan.
+
+2. Players will continue to roll the die until all Battle Countries are picked. 
+
+	 2a. If the game consist of only two players, each
+	player will pick their battle country and move to the next step. The player with the higher 
+	number will have the advantage of picking Allied or Axis powers first. In a two player game,
+	the players must be of opposite power.
+	
+	2b. If the game consist of four or more players, the players will continue to roll the die 
+	until every player has a country. Keep in mind the battle powers must be equal. A four player 
+	game will have 2 Allied and 2 Axis Countries. A six player game will have 3 Allied and 3 Axis
+	Countries. 
+
+3. Once every player has a Battle Country, the teams will be divided by powers. Allied players will
+pair with other Allied players and vice a versa for Axis players.
+
+

@@ -1,0 +1,15 @@
+C:\Users\Anthony\source\repos\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Anthony\source\repos\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Anthony\source\repos\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Anthony\source\repos\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
+C:\Users\Anthony\Desktop\CTS 285\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Anthony\Desktop\CTS 285\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Anthony\Desktop\CTS 285\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CTS 285\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Anthony\Desktop\CTS 285\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
+D:\CTS 285\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+D:\CTS 285\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+D:\CTS 285\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+D:\CTS 285\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+D:\CTS 285\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

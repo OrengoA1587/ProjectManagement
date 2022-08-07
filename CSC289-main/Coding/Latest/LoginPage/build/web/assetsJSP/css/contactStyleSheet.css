@@ -1,0 +1,158 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 4, 2021, 6:35:03 AM
+    Author     : Anthony
+*/
+* {
+  box-sizing: border-box;
+}
+
+/*CEO Section--------------------------------------------------------*/
+.ceo-contact-form{
+    position:absolute;
+    background:  transparent;
+    height: auto;
+    width: 21%;
+    left:1.2%;
+    border-radius: 4px;
+    top:15%;
+     
+}
+ .container-fluid .flex-container-about .ceo-contact-form p {
+    
+    font-size: .8vw;
+    color: black;
+}
+ .container-fluid .flex-container-about h4 {
+    text-align: center;
+    font-size: 1vw;
+    color: black;
+}
+/*SECURITY Section--------------------------------------------------------*/
+.security-contact-form {
+    position:absolute;
+    background:  transparent;
+    height: auto;
+    width: 21%;
+    top:40%;
+    left:1.2%;
+    border-radius: 4px;
+}
+ .container-fluid .flex-container-about .security-contact-form p {
+     
+    font-size: .8vw;
+    color: black;
+}
+ .container-fluid .flex-container-about h4 {
+     
+    font-size: 1vw;
+    color: black;
+}
+/*ADMIN Section--------------------------------------------------------*/
+.admin-contact-form {
+    position:absolute;
+    background:  transparent;
+    height: auto;
+    width: 22%;
+    top:15%;
+    left:24%;
+    border-radius: 4px;
+}
+ .container-fluid .flex-container-about .admin-contact-form p {
+     
+    font-size: .8vw;
+    color: black;
+}
+ .container-fluid .flex-container-about h4 {
+     
+    font-size: 1vw;
+    color: black;
+}
+/*OPERATIONS Section--------------------------------------------------------*/
+.operations-contact-form {
+    position:absolute;
+    background:  transparent;
+    height: auto;
+    width: 22%;
+    top:40%;
+    left:24%;
+    border-radius: 4px;
+}
+ .container-fluid .flex-container-about .operations-contact-form p {
+     
+    font-size: .8vw;
+    color: black;
+}
+ .container-fluid .flex-container-about h4 {
+     
+    font-size: 1vw;
+    color: black;
+}  
+/*FINANCE Section--------------------------------------------------------*/
+.finance-contact-form {
+    position:absolute;
+    background:  transparent;
+    height: auto;
+    width: 22%;
+    top:65%;
+    left:24%;
+    border-radius: 4px;
+}
+ .container-fluid .flex-container-about .finance-contact-form p {
+     
+    font-size: .8vw;
+    color: black;
+}
+ .container-fluid .flex-container-about h4 {
+     
+    font-size: 1vw;
+    color: black;
+} 
+/*HR Section--------------------------------------------------------*/
+.human-resource-contact-form {
+    position:absolute;
+    background:  transparent;
+    height: auto;
+    width: 21%;
+    top:65%;
+    left:1.2%;
+    border-radius: 4px;
+}
+ .container-fluid .flex-container-about .human-resource-contact-form p {
+     
+    font-size: .8vw;
+    color: black;
+}
+ .container-fluid .flex-container-about h4 {     
+    font-size: 1.2vw;
+    font-weight: bold;
+    border-bottom: 1px black ;
+    text-decoration: underline;
+    text-align: left;
+    color: black;
+} 
+@media screen and (max-width: 600px) {
+ .ceo-contact-form .security-contact-form .admin-contact-form .operations-contact-form .human-resource-contact-form .finance-contact-form {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+.image-phone{
+    opacity: .1;
+    position: relative; 
+    left: 25%;
+}
+.contact-title{
+     
+    text-align: center;
+}
+.footer-dark{
+    background:  #dddde2;
+}
+     
+ 
